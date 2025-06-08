@@ -44,7 +44,7 @@ func History() []string {
 		os.Exit(0)
 	}
 
-	fmt.Println("\033[2mIn memory of Binymin Yawitz (1989–2025), creator of GGH \033[31m❤️\033[0m\033[2m\033[0m")
+	fmt.Println("\033[2mIn memory of Binymin Yawitz (1990–2025), creator of GGH \033[31m❤️\033[0m\033[2m\033[0m")
 
 	var rows []table.Row
 	currentTime := time.Now()
